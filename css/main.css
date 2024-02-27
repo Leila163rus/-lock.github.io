@@ -15,9 +15,8 @@ p {
     width: 550px;
     font-family: 'Share Tech Mono', monospace;
     color: #ffffff;
-    position: absolute;
-    top: 30%;
-    left: 30%;
+    margin: auto;
+    margin-top: 15%;
     text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
     background-color: rgba(255, 255, 255, 0.06);
     -webkit-backdrop-filter: blur(15px);
